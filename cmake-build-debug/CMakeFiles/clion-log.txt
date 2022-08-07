@@ -1,0 +1,4 @@
+/home/doug/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/222.3345.126/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/doug/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/222.3345.126/bin/ninja/linux/ninja -DCMAKE_C_COMPILER=clang -DCMAKE_CXX_COMPILER=clang++ -G Ninja -S /home/doug/CLionProjects/vpacombo -B /home/doug/CLionProjects/vpacombo/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/doug/CLionProjects/vpacombo/cmake-build-debug

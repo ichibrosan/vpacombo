@@ -1,0 +1,4 @@
+/home/doug/CLionProjects/vpacombo/cmake-build-debug/CMakeFiles/library.dir
+/home/doug/CLionProjects/vpacombo/cmake-build-debug/CMakeFiles/vpacombo.dir
+/home/doug/CLionProjects/vpacombo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/doug/CLionProjects/vpacombo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
